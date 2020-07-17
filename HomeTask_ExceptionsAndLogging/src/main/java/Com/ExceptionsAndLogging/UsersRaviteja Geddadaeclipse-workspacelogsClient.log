@@ -1,0 +1,16 @@
+
+2020-07-17 08:52:56 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:17 - choice: si
+2020-07-17 08:53:08 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:33 - principle: 1000.0
+2020-07-17 08:53:08 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:34 - timeperiod: 2.0
+2020-07-17 08:53:08 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:35 - rate of interest: 5
+2020-07-17 08:53:08 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:38 - simpleInterest: 100.0
+2020-07-17 08:53:34 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:17 - choice: ci
+2020-07-17 08:53:45 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:33 - principle: 10000.0
+2020-07-17 08:53:45 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:34 - timeperiod: 3.0
+2020-07-17 08:53:45 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:35 - rate of interest: 7
+2020-07-17 08:53:45 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:51 - compoundInterest: 2250.43
+2020-07-17 08:53:58 INFO  Com.ExceptionsAndLogging.InterestCalculatorLog:17 - choice: hc
+2020-07-17 08:54:26 INFO  Com.ExceptionsAndLogging.HouseConstructionLog:20 - material: standard
+2020-07-17 08:54:26 INFO  Com.ExceptionsAndLogging.HouseConstructionLog:21 - areaOfHouse: 200.0
+2020-07-17 08:54:26 INFO  Com.ExceptionsAndLogging.HouseConstructionLog:22 - fullyautomated: 1
+2020-07-17 08:54:26 INFO  Com.ExceptionsAndLogging.HouseConstructionLog:41 - ConstructionCost: 240000.0
